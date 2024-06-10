@@ -1,0 +1,99 @@
+.main-info-description{
+    font-size: 20px;
+}
+
+.big-yellow-btn{
+    font-size: 20px;
+}
+
+.big-black-btn{
+    font-size: 20px;
+}
+
+.big-yellow-btn-no-icon{
+    font-size: 20px;
+}
+
+.people-slogan{
+    font-size: 20px;
+}
+
+.speakers-icons-title{
+    font-size: 20px;
+}
+
+.speakers-icons__item-popup{
+    font-size: 20px;
+}
+
+.form-title-description{
+    font-size: 20px;
+}
+
+.text-label{
+    font-size: 20px;
+    width: 190px;
+}
+
+.input-text{
+    font-size: 20px;
+    width: 250px;
+}
+
+.checkbox + label{
+    font-size: 20px;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.message-send-text{
+    font-size: 20px;
+}
+
+.artist-description{
+    font-size: 20px;
+}
+
+.error-wrapper{
+    font-size: 20px;
+}
+
+.people-widget-right{
+    padding-top: 10px;
+}
+
+.people-slogan{
+    margin-bottom: 20px;
+}
+
+.artist-two img{
+    left: 50px;
+}
+
+#registrationForm .content-left{
+    width: 580px;
+}
+
+#registrationForm .content-right{
+    width: 620px;
+}
+
+.ie-fix{
+    display: block;
+}
+
+.check-stat:before{
+    top: 10px;
+}
+
+.yellow-widget{
+    width: 570px;
+    height: 525px;
+    background: url("../img/ramka-ie.png") no-repeat;
+}
+
+.contest-form-wrapper .input-text{
+    line-height: 30px;
+}

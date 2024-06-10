@@ -1,0 +1,818 @@
+/* mobile styles */
+
+.mobile .main-wrapper{
+    min-width: 320px;
+}
+
+.mobile .container-header{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.mobile .header{
+    position: relative;
+    margin-top: 75px;
+    border: 2px solid #fff104;
+    padding-top: 30px;
+    height: auto;
+}
+
+.mobile .menu{
+    position: relative;
+    float: none;
+}
+
+.mobile .menu__item{
+    display: block;
+    text-align: center;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.mobile .menu-link{
+    color: #fff;
+    border-bottom: 1px solid #847d06;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+
+.mobile .logo{
+    display: none;
+}
+
+.mobile .content{
+    width: 100%;
+    padding: 0 25px;
+}
+
+.mobile .main-info{
+    background: none;
+    top: 55px;
+}
+
+.mobile .main-info .content{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.mobile .main-info-left{
+    width: 100%;
+    float: none;
+    background: rgba(0,0,0, .82);
+    margin-bottom: 80px;
+    padding: 35px 0;
+}
+
+.mobile .main-info-right{
+    width: 100%;
+    float: none;
+    background: rgba(0,0,0, .82);
+    padding: 35px 0;
+}
+
+.mobile .main-info-pic{
+    position: relative;
+    width: 70%;
+    margin: 0 auto 20px auto;
+    display: block;
+}
+
+.mobile .main-info-date{
+    text-align: center;
+    font-size: 23px;
+}
+
+.mobile .main-info-title{
+    text-transform: none;
+    text-align: center;
+    font-size: 20px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.mobile .main-info-description{
+    text-align: center;
+    font-size: 15px;
+}
+
+.mobile .main-info-description br{
+    display: none;
+}
+
+.mobile .main-info .big-yellow-btn{
+    position: relative;
+    margin: 0 auto;
+    width: 260px;
+    height: 40px;
+    line-height: 45px;
+    font-size: 15px;
+}
+
+.mobile .main-info .big-yellow-btn .ok-icon{
+    width: 25px;
+    height: 23px;
+}
+
+.mobile .content-left{
+    float: none;
+    width: 100%;
+    padding: 0;
+}
+
+.mobile .content-right{
+    float: none;
+    padding-left: 0;
+    width: 100%;
+}
+
+.mobile .yellow-widget-full{
+    position: relative;
+    width: 100%;
+    background: none;
+    border: 2px solid #fff104;
+    padding-top: 80px;
+}
+
+.mobile .widget-black-label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 15px;
+}
+
+.mobile .big-yellow-btn{
+    width: 100%;
+}
+
+.mobile h2.title{
+    font-size: 35px;
+}
+
+.mobile-show{
+    display: none;
+}
+
+.mobile .mobile-show{
+    display: block;
+}
+
+.mobile .mobile-hide{
+    display: none;
+}
+
+.mobile .container-about .big-yellow-btn{
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.mobile .yellow-widget-wrapper{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.mobile .yellow-widget{
+    width: 100%;
+    height: auto;
+    background: none;
+    border: 2px solid #fff104;
+    margin: 0 0 25px 0;
+    padding: 0;
+    display: block;
+    clear: both;
+}
+
+.mobile .people-widget-left{
+    width: 100%;
+    float: none;
+    padding: 20px 20px 0 20px;
+}
+
+.mobile .people-widget-right{
+    width: 100%;
+    float: none;
+    padding: 0 20px 0 20px;
+}
+
+.mobile .people-pic-wrap{
+    margin: 0 auto;
+}
+
+.mobile .remodal .people-pic-wrap{
+    width: 100px;
+    height: 100px;
+    top: 5px;
+    left: 4px;
+}
+
+.mobile .text br{
+    display: none;
+}
+
+.mobile .yellow-widget .big-yellow-btn-no-icon{
+    position: relative;
+    display: block;
+    width: 80%;
+    right: auto;
+    left: 50%;
+    margin-left: -40%;
+    bottom: -25px;
+}
+
+.mobile .yellow-widget h3.title{
+    font-size: 28px;
+    text-align: center;
+}
+
+.mobile .people-slogan{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.mobile .yellow-widget .text{
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
+.mobile .speakers-icons-mobile{
+    margin-bottom: 20px;
+}
+
+.mobile .speakers-main-description{
+    text-align: left;
+    margin-bottom: 50px;
+    padding-bottom: 5px;
+}
+
+.mobile .speakers-main-description br{
+    display: none;
+}
+
+.mobile .container-speakers{
+    padding-top: 20px;
+}
+
+.mobile .container-registration{
+    padding-top: 20px;
+}
+
+.mobile .container-registration .title.center{
+    text-align: left;
+}
+
+.mobile .container-registration .about-text{
+    text-align: left;
+}
+
+.mobile .container-registration .user-form-wrapper{
+    padding: 30px;
+}
+
+.mobile .container-registration .user-form-wrapper .text-label{
+    width: 100%;
+    height: auto;
+    line-height: inherit;
+    float: none;
+    text-transform: uppercase;
+    color: #a3a3a3;
+    font-size: 15px;
+}
+
+.mobile .container-registration .user-form-wrapper .input-text{
+    width: 100%;
+    float: none;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.mobile .user-form-wrapper .form-title{
+    display: none;
+}
+
+.mobile .form__item{
+    height: auto;
+    margin-bottom: 35px;
+}
+
+.mobile .hobbies-form__item{
+    width: 50%;
+    float: left;
+    margin-bottom: 0;
+}
+
+.mobile .checkbox + label{
+    font-size: 15px;
+}
+
+.mobile .input-text-other-hobby{
+    width: 100%;
+}
+
+.mobile .reg-button-mobile-move{
+    position: relative;
+    margin: 0 auto 50px auto;
+    display: block;
+    float: none;
+    background: url("../img/yellow-button-icon.png") 200px center no-repeat;
+    background-size: 10%;
+    border: 2px solid #000;
+    width: 260px;
+    height: 40px;
+    line-height: 35px;
+    font-size: 14px;
+    -webkit-appearance: none;
+}
+
+.mobile .address{
+    margin-top: 0;
+    min-height: inherit;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.mobile .address:before{
+    border: none;
+}
+
+.mobile .address .about-text br{
+    display: none;
+}
+
+.mobile .title-rest{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.mobile .place-pic{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.mobile .container-place-info .content{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.mobile .questions-info{
+    padding-top: 50px;
+    margin-bottom: 110px;
+}
+
+.mobile .questions-info:before{
+    width: 290px;
+    height: 290px;
+    margin-left: -148px;
+}
+
+.mobile .questions-info .title{
+    line-height: 30px;
+}
+
+.mobile .email{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.mobile .tel{
+    font-size: 19px;
+    color: #000!important;
+    text-decoration: none;
+}
+
+.mobile .tel-name{
+    margin-bottom: 0;
+}
+
+.mobile .title-faq{
+    text-align: left;
+    font-size: 40px!important;
+    margin-bottom: 50px;
+}
+
+.mobile .accordion-main{
+    font-size: 20px;
+    background: #f3f3f3;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mobile .accordion-text{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mobile .container-about{
+    padding-top: 50px;
+}
+
+.mobile #map{
+    position: relative;
+    background: url("../img/map-pic.jpg") top center no-repeat;
+    background-size: cover;
+}
+
+.mobile #map:after{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 75%, rgba(255,255,255,1) 100%);
+    background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 75%,rgba(255,255,255,1) 100%);
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 75%,rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
+}
+
+.mobile .container-place-map{
+    margin-bottom: -260px;
+}
+
+.mobile .container-contacts{
+    z-index: 10;
+}
+
+.mobile .container-header .content{
+    display: none;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #060606 url('../img/mobile-menu-bg.jpg') no-repeat;
+    background-size: cover;
+    padding: 20px 30px 0 30px;
+}
+
+.menu-title{
+    display: none;
+}
+
+.menu-close{
+    display: none;
+}
+
+.mobile .menu-close{
+    display: none;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 24px;
+    height: 23px;
+    background: url("../img/menu-close.png") no-repeat;
+    z-index: 20;
+}
+
+.mobile .hide{
+    display: none!important;
+}
+
+.mobile .menu-title{
+    display: block;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'FuturaDemiC', sans-serif;
+    margin-bottom: 30px;
+}
+
+.menu-button{
+    display: none;
+}
+
+.mobile .menu-button{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    display: block;
+    width: 30px;
+    height: 22px;
+    background: url("../img/menu-icon-show.png") no-repeat;
+}
+
+.mobile .remodal-wrapper{
+    padding: 0;
+}
+
+.mobile .remodal{
+    width: 100%;
+    min-height: 100%;
+    padding: 150px 30px 30px 30px;
+    overflow: scroll;
+}
+
+.mobile .remodal .people-pic{
+    width: 86px;
+    height: 86px;
+    top: 3px;
+    left: 3px;
+}
+
+.mobile .remodal .people-pic-wrap{
+    margin: 30px 0 0 30px;
+}
+
+.mobile .remodal .form__item{
+    margin-bottom: 0;
+}
+
+.mobile .remodal .form__item .text-label,
+.mobile .remodal .form__item .input-text{
+    float: none;
+    display: block;
+    width: 100%;
+}
+
+.mobile .remodal .form__item .text-label{
+    text-transform: uppercase;
+    color: #707070;
+    font-size: 14px;
+}
+
+.mobile .remodal-close{
+    top: 30px;
+    right: 30px;
+    width: 24px;
+    height: 23px;
+    background: url("../img/mobile-close.png") no-repeat;
+}
+
+.mobile .remodal .input-text{
+    height: 30px;
+    line-height: 15px;
+    padding-top: 5px;
+}
+
+.mobile .remodal .big-yellow-btn-no-icon{
+    position: relative;
+    bottom: 0;
+    margin-top: 20px;
+    width: 80%;
+    left: 50%;
+    right: auto;
+    margin-left: -40%;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+.mobile .remodal .big-yellow-btn-no-icon[type=submit]{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    display: block;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-family: 'FuturaDemiC', sans-serif;
+    background: #fff104;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-appearance: none;
+}
+
+.mobile .container-registration .content{
+    padding-bottom: 20px!important;
+}
+
+.mobile .mobile-columns{
+    position: relative;
+    display: block;
+    width: 100%;
+    float: none;
+    clear: both;
+}
+
+.mobile .mobile-columns:after{
+    content: '';
+    clear: both;
+    overflow: hidden;
+    width: 100%;
+    display: block;
+}
+
+.mobile .mobile-columns__item{
+    width: 50%;
+    float: left;
+}
+
+.mobile .address-wrapper:before{
+    position: absolute;
+    content: '';
+    top: 45px;
+    left: 50%;
+    margin-left: -45%;
+    width: 90%;
+    height: 320px;
+    border: 4px solid #fff104;
+    z-index: -1;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.mobile .address-wrapper .content-left{
+    margin-bottom: 70px;
+    padding-top: 30px;
+}
+
+.mobile .container-artists h2.title{
+    text-align: left;
+}
+
+.mobile .container-artists .content{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.mobile .artist-text{
+    text-align: center;
+}
+
+.mobile .artist-title{
+    font-size: 30px;
+}
+
+.mobile .artist-description{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.mobile .people-pic-wrap-artist{
+    margin-bottom: 20px;
+}
+
+.mobile .artists-surprise{
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.mobile .list__item{
+    display: block;
+}
+
+.mobile .container-main-info{
+    height: 700px;
+}
+
+.mobile .address .about-text{
+    font-size: 18px;
+}
+
+.mobile .title-faq{
+    text-align: center;
+}
+
+.mobile .text-label-other-hobby{
+    width: 100%;
+}
+
+.mobile .container-contest{
+    background: #fff;
+}
+
+.mobile .container-contest .content{
+    padding-top: 50px;
+}
+
+.mobile .container-contest .form-title{
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.mobile .container-contest .input-digits{
+    width: 100%;
+    height: 45px;
+    line-height: 30px;
+    font-size: 30px;
+    color: #000;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.mobile .input-digits-comma{
+    font-size: 35px;
+    line-height: 0;
+}
+
+.mobile .input-contest-group{
+    text-align: center;
+}
+
+.mobile .content-white-contest,
+.mobile .content-black-contest{
+    height: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+.mobile .container-contest .content{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.mobile .contest-form-wrapper .text-label{
+    width: 100%;
+    height: auto;
+    line-height: inherit;
+    float: none;
+    text-transform: uppercase;
+    color: #a3a3a3;
+    font-size: 15px;
+}
+
+.mobile .contest-form-wrapper .input-text{
+    float: none;
+    width: 100%;
+    padding-top: 5px;
+    height: 40px;
+}
+
+.mobile .contest-radio .checkbox + label{
+    width: 100%;
+}
+
+@media (max-width: 320px){
+    .mobile .widget-black-label{
+        height: 30px;
+        line-height: 35px;
+    }
+
+    .mobile .list__item{
+        font-size: 14px;
+        padding-right: 10px;
+    }
+
+    .mobile .list__item:before{
+        top: -9px;
+    }
+
+    .mobile .yellow-widget-full{
+        height: auto;
+    }
+
+    .mobile .yellow-widget .text{
+        font-size: 14px;
+    }
+
+    .mobile .bx-wrapper .bx-prev, .bx-wrapper .bx-next{
+        top: 140px;
+        width: 22px;
+        height: 42px;
+        background-size: cover;
+    }
+
+    .mobile .yellow-widget h3.title{
+        font-size: 18px;
+    }
+
+    .mobile .people-slogan{
+        font-size: 14px;
+    }
+
+    .mobile .speakers-main-description{
+        font-size: 14px;
+    }
+
+    .mobile .container-registration .about-text{
+        font-size: 14px;
+    }
+
+    .mobile .form-title-black{
+        font-size: 18px;
+    }
+
+    .mobile .form-title-description{
+        font-size: 14px;
+    }
+
+    .mobile .text-label-other-hobby{
+        font-size: 14px;
+    }
+
+    .mobile .checkbox + label{
+        font-size: 12px;
+    }
+
+    .mobile .container-contest .input-digits{
+        width: 100%;
+        height: 30px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+}
